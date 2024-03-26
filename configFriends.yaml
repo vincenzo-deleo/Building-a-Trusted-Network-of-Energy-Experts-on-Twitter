@@ -1,0 +1,5 @@
+APP_KEY: ''
+APP_SECRET: ''
+OAUTH_TOKEN: ''
+OAUTH_TOKEN_SECRET: ''
+emitkeys: "'screen_name','location','friends_count','listed_count','followers_count','created_at','statuses_count','lang','description'"
